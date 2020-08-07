@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Template for new GitHub Actions running NodeJS",
   "dependencies": {
-    "loglevel": "^1.6.1",
+    "loglevel": "^1.6.8",
     "request-promise": "^4.2.4"
   },
   "devDependencies": {
