@@ -4,7 +4,7 @@
   "description": "Template for new GitHub Actions running NodeJS",
   "dependencies": {
     "loglevel": "^1.6.1",
-    "request-promise": "^4.2.4"
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {
     "standard": "^12.0.1"
